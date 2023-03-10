@@ -6,7 +6,7 @@ menuIcon.onclick= () =>{
     navbar.classList.toggle("active");
 };
 // Get the form element and input fields
-const form = document.querySelector('#form');
+const form = document.querySelector('form');
 const nameInput = document.querySelector('#name');
 const emailInput = document.querySelector('#email');
 const subjectInput = document.querySelector('#subject');
@@ -53,8 +53,4 @@ form.addEventListener('submit', (event) => {
   form.submit();
 });
 
-// Helper function to validate email addresses
-function isValidEmail(email) {
-  const emailRegex = /^\S+@\S+\.\S+$/;
-  return emailRegex.test(email);
-}
+
