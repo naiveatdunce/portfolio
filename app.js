@@ -6,7 +6,7 @@ menuIcon.onclick= () =>{
     navbar.classList.toggle("active");
 };
 // Get the form element and input fields
-const form = document.querySelector('form');
+const form = document.querySelector('#form');
 const nameInput = document.querySelector('#name');
 const emailInput = document.querySelector('#email');
 const subjectInput = document.querySelector('#subject');
