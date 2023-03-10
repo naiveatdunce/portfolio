@@ -1,5 +1,5 @@
 <?php
-if ($_SERVER['REQUEST_METHOD'] === 'post') {
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   // Get the form data
   $name = $_POST['name'];
   $email = $_POST['email'];
