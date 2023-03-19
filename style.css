@@ -35,7 +35,7 @@
     left: 0;
     width: 100%;
     padding: 2rem 9%;
-    background: var(--bg-color);
+    background: red;
     justify-content: space-between;
     align-items: center;
     z-index: 100;
@@ -356,9 +356,9 @@
   }
 
   @media (max-width:720px)  {
-  body {
+         body {
 overflow-x: hidden;
-}
+   }
       #menu-icon{
       display: block;
       margin-right: 2rem;
