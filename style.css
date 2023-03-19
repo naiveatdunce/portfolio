@@ -35,7 +35,7 @@
     left: 0;
     width: 100%;
     padding: 2rem 9%;
-    background: red;
+    background:var(--bg-color);
     justify-content: space-between;
     align-items: center;
     z-index: 100;
