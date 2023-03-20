@@ -306,7 +306,7 @@
   box-shadow: 0 0 1rem var(--main-color);
    background: var(--main-color);
    border-radius: 1rem;
-   padding-: 0.7rem;
+   padding: 0.7rem;
   }
   .back-home a:hover{
    background: var(--bg-color);
