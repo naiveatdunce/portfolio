@@ -425,4 +425,9 @@ overflow-x: hidden;
    margin-right: 300px;
  
   }
+  .portfolio-layer h3{
+   font-size: 1.6rem;
+   color: var(--main-color);
+  
+  }
 }
