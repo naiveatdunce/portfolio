@@ -244,7 +244,7 @@
    margin:1rem;
    color: black;
   }
-  /* .portfolio-layer a{
+   .portfolio-layer a{
    display: flex;
    align-items: center;
    justify-content: center;
@@ -254,12 +254,12 @@
    border-radius: 50%;
    margin-bottom: .5rem;
   }
-  .portfolio-layer a i{
+  /* .portfolio-layer a i{
    font-size: 3rem;
    color: var(--second-bg-color);
 
-  } */
- 
+  } 
+  */
  
   .contact h2{
    text-align: center;
