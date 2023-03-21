@@ -242,8 +242,9 @@
   .portfolio-layer p{
    font-size: 1.7rem;
    margin:1rem;
+   color: black;
   }
-  .portfolio-layer a{
+  /* .portfolio-layer a{
    display: flex;
    align-items: center;
    justify-content: center;
@@ -257,7 +258,7 @@
    font-size: 3rem;
    color: var(--second-bg-color);
 
-  }
+  } */
  
  
   .contact h2{
