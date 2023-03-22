@@ -239,6 +239,9 @@
    color: var(--main-color);
   
   }
+  .portfolio-layer .btn{
+   display: none;
+  }
   .portfolio-layer p{
    font-size: 1.7rem;
    margin:1rem;
